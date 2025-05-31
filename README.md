@@ -30,5 +30,5 @@ Briefly describe your overall methodology for loading, processing, and visualizi
 Below, insert screenshots of the key plots you generated. You can add captions to clarify what each figure is showing.
    
 **Figure : Axial|Coronal|Sagital Slice of sub-62038**  
-![Axial Slice of sub-62038](image.png)
+![Axial Slice of sub-62038](Week2/image.png)
 
