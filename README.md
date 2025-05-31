@@ -31,5 +31,5 @@ Below, insert screenshots of the key plots you generated. You can add captions t
 
 1. **Sample NIfTI Slice (Axial View)**  
    _Screenshot:_  
-   ```markdown
-   ![Axial Slice of sub-62038](/Users/pratyushsandhwar/new/Screenshot 2025-06-01 at 12.01.44 AM.png)
+   ![Uploading Screenshot 2025-06-01 at 12.01.44 AM.png…]()
+
