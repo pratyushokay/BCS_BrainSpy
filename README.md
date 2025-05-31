@@ -28,8 +28,7 @@ Briefly describe your overall methodology for loading, processing, and visualizi
 ## 2. Visualizations
 
 Below, insert screenshots of the key plots you generated. You can add captions to clarify what each figure is showing.
-
-1. **Sample NIfTI Slice (Axial View)**  
-   _Screenshot:_  
-   ![Uploading Screenshot 2025-06-01 at 12.01.44 AM.png…]()
+   
+**Figure : Axial|Coronal|Sagital Slice of sub-62038**  
+![Axial Slice of sub-62038](image.png)
 
